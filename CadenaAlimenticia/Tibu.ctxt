@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Tibu
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Shark\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Tibu()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Shark\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ switchImage()
+comment4.params=
+comment4.target=void\ turnAtEdge()
+comment5.params=
+comment5.target=void\ randomTurn()
+comment6.params=
+comment6.target=void\ Buscando()
+comment6.text=\r\n\ Check\ whether\ we\ have\ stumbled\ upon\ a\ Crab\r\n\ If\ we\ have,\ eat\ it.\ if\ not,\ do\ nothing\r\n
+numComments=7

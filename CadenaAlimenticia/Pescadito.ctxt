@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Pescadito
+comment0.text=\r\n\ Los\ pescados\ son\ como\ las\ lombrices.\r\n\ \r\n\ Roberto\ Barreda\ No.\ 23354\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ turnAtEdge()
+comment3.params=
+comment3.target=void\ randomTurn()
+numComments=4

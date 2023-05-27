@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Prota
+comment0.text=\r\n\ This\ class\ defines\ a\ fish.\ Fish\ live\ on\ the\ beach.\r\n
+comment1.params=
+comment1.target=Prota()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkKeyPress()
+comment4.params=
+comment4.target=void\ BuscandoPescaditos()
+numComments=5
